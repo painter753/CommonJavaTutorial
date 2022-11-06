@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.lazyboyprod</groupId>
-  <artifactId>Java9Features</artifactId>
+  <artifactId>Module3</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
-  <name>Java9Features</name>
+  <name>Module3</name>
   <url>http://maven.apache.org</url>
 
   <properties>

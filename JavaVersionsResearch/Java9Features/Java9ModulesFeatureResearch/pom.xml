@@ -3,15 +3,21 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.lazyboyprod</groupId>
-  <artifactId>Java9Features</artifactId>
+  <artifactId>Java9ModulesFeatureResearch</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>Module1</module>
+    <module>Module2</module>
+  </modules>
   <packaging>pom</packaging>
 
-  <name>Java9Features</name>
+  <name>Java9ModulesFeatureResearch</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>9</maven.compiler.source>
+    <maven.compiler.target>9</maven.compiler.target>
   </properties>
 
   <dependencies>
