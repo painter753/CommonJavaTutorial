@@ -1,10 +1,10 @@
-package com.lazyboyprod;
+package com.lazyboyprod.module2;
 
 import com.lazyboyprod.printer.filter.CustomStringFilter;
 import com.lazyboyprod.printer.CustomPrinter;
 import com.lazyboyprod.printer.SimpleCustomPrinter;
 
-public class App {
+public class AppModule2 {
     public static void main( String[] args ) {
         CustomPrinter printer = new SimpleCustomPrinter();
         printer.print("Hello 123wrld");
