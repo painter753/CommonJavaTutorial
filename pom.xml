@@ -12,8 +12,11 @@
   <name>CommonJavaTutorial</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+    <modules>
+        <module>JavaLeetcode</module>
+    </modules>
 
-  <properties>
+    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>

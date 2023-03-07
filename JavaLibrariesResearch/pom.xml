@@ -7,6 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>JavaxServletResearch</module>
+      <module>RxJavaResearch</module>
+      <module>JavaUtilsResearch</module>
   </modules>
   <packaging>pom</packaging>
 
